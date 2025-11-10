@@ -5,7 +5,7 @@ This project generates RSA key pairs, saves them for each user, and allows encry
 
 ---
 
-## 🧠 What This Project Does
+## What This Project Does
 - Generates **public and private RSA keys** for a given username  
 - Saves keys inside a "keys/" folder  
 - Encrypts and decrypts messages using the RSA algorithm  
@@ -13,7 +13,7 @@ This project generates RSA key pairs, saves them for each user, and allows encry
 
 ---
 
-## 🧩 Folder Structure
+## Folder Structure
 RSA-Encryption-Tool/<br/>
 │<br/>
 ├── keys/ → stores generated key files<br/>
@@ -25,7 +25,7 @@ RSA-Encryption-Tool/<br/>
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository  
    ```bash
    git clone https://github.com/<dedh-foot>/RSA-Encryption-Tool.git
@@ -42,21 +42,21 @@ Decrypt messages<br/>
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Python 3.x<br/>
 No external libraries required (for now)
 
 ---
 
-## 🧭 Future Plans
+## Future Plans
 
 This project is still a work in progress.
 
 In upcoming updates, I plan to:<br/>
-🔄 Store keys in PEM format<br/>
-🧩 Add error handling and input validation<br/>
-💻 Possibly build a simple GUI for easier interaction<br/>
+1. Store keys in PEM format<br/>
+2. Add error handling and input validation<br/>
+3. Possibly build a simple GUI for easier interaction<br/>
 
 ## About This Project
 
@@ -64,8 +64,8 @@ This project was created as part of my cybersecurity learning journey to better 
 I’ll continue improving and refactoring the code step by step.
 
 Author: dedhfoot<br/>
-💡 Cybersecurity Student | Python Learner | Security Enthusiast<br/>
-⭐ Feel free to fork, suggest improvements, or connect with me!<br/>
+Cybersecurity Student | Python Learner | Security Enthusiast<br/>
+Feel free to fork, suggest improvements, or connect with me!<br/>
 
 
 | ⚠️ Note: This project is for educational purposes only and not for production-level cryptography.
